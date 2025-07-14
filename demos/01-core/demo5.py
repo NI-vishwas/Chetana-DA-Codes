@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#
+# Author: Vishwas K Singh
+# Email: vishwasks.reach@gmail.com
+# Version: 1.0
+# Script to demonstrate Conditions in Python
+
 # Demonstrate Conditions
 # Indentation is very important in python
 # 4 spaces is considered indent

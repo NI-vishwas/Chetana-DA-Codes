@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+#
+# Author: Vishwas K Singh
+# Email: vishwasks.reach@gmail.com
+# Version: 1.0
+# Script demonstration of Functions
 
 # # Function Definition
 # def func_name():
