@@ -14,3 +14,9 @@ Codes in this repository are demonstration examples & exercises used in the cour
 | [demo8.py](./demos/01-core/demo8.py)| Script demonstrating usage of while with a string |
 | [demo9.py](./demos/01-core/demo9.py)| Script demonstration of Functions |
 | [demo10.py](./demos/01-core/demo10.py)| Script to use user defined modules |
+| [demo11.py](./demos/01-core/demo11.py)| Script to take n numbers & find their sum, average etc.. |
+| [demo12.py](./demos/01-core/demo12.py)| Script to demo OOPs in Python |
+| [demo13.py](./demos/01-core/demo13.py)| Script to demo file handling |
+| [demo14.py](./demos/01-core/demo14.py)| Script to demo file writing |
+| [demo15.py](./demos/01-core/demo15.py)| Script to demo file handling using with statement |
+| [demo16.py](./demos/01-core/demo16.py)| Script to demo csv file handling |
