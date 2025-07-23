@@ -3,7 +3,7 @@ Codes in this repository are demonstration examples & exercises used in the cour
 
 |Module|Description|
 |------|------------|
-| Module 01 - Core Python <td colspan=2>|
+| <td colspan=2>Module 01 - Core Python |
 | [demo1.py](./demos/01-core/demo1.py)| Script to calculate Simple Interest v1.0|
 | [demo2.py](./demos/01-core/demo2.py)| Script to calculate Simple Interest v2.0|
 | [demo3.py](./demos/01-core/demo3.py)| Script to extract username from the valid email id v1.0|
